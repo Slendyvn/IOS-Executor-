@@ -8,6 +8,7 @@ https://discord.gg/getnova
 -Open the file and right click then give "IOS Executor.exe" Adminstration
 
 -Open roblox -> Inject -> Enjoy!
+**PLEASE IF IT WORKS FINE FOR A COUPLE DAY THEN IT STOPPED WORKING / CHECK YOUR REAL TIME PROTECTION , WINDOW USUALLY TURN ON ITSELF!**
 ## Whats good about this executor?
 this executor have 100% unc and KEYLESS 
 while other executor like atlantis (also 100% unc) need key for only 6 hours!
