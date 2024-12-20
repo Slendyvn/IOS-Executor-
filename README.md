@@ -7,3 +7,7 @@ https://discord.gg/getnova
 1.First turn off your real time protection to download (and also use this)
 2.Open the file and right click then give "IOS Executor.exe" Adminstration
 3.Open roblox -> Inject -> Enjoy!
+## Whats good about this executor?
+this executor have 100% unc and KEYLESS 
+while other executor like atlantis (also 100% unc) need key for only 6 hours!
+basically it cuz it was inspired by an old executor, what did you expect?
