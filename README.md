@@ -1,6 +1,7 @@
 ## Base on the first ever IOS Executor! 
 which is currently a lost media because theres currently only ONE video about it 
-thank you to the nova dev team for helping me bringing this project to life!## their discord server 
+thank you to the nova dev team for helping me bringing this project to life!
+## their discord server 
 https://discord.gg/getnova
 ## how to download?
 -First turn off your real time protection to download (and also use this)
