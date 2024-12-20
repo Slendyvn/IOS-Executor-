@@ -14,8 +14,8 @@ this executor have 100% unc and KEYLESS
 while other executor like atlantis (also 100% unc) need key for only 6 hours!
 basically it cuz it was inspired by an old executor, what did you expect?
 
+## Nova's discord server!
+https://discord.gg/getnova
+
 ## Join Kotolog server!
 https://discord.gg/kotolog
-
-## their discord server 
-https://discord.gg/getnova
